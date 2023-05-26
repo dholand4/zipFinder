@@ -10,7 +10,7 @@
 
 ## 🤔 Sobre
 
-Projeto **ZipFinder**, projeto feito para listar informações da cidade de acordo o CEP.
+Projeto **ZipFinder**, projeto feito para listar informações de acordo com o CEP.
 
 ---
 
@@ -39,7 +39,7 @@ O projeto foi feito utilizando das seguintes tecnologias
 
 ## 💻 Funcionalidades
 
-- Listagem nome de ruas pelo CEP
+- Listar informações de acordo com o CEP
 
 ---
 
