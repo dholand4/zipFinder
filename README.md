@@ -10,7 +10,7 @@
 
 ## 🤔 Sobre
 
-Projeto **Pokedex**, projeto feito para listar os pokemons da api pokeapi.
+Projeto **ZipFinder**, projeto feito para listar informações da cidade de acordo o CEP.
 
 ---
 
